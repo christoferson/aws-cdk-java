@@ -26,3 +26,7 @@ cdk init app --language java
 
 cdk bootstrap
 
+## Resources
+
+https://docs.aws.amazon.com/cdk/v2/guide/home.html
+
